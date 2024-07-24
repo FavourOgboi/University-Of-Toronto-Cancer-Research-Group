@@ -10,7 +10,7 @@ Our primary objective is to comprehensively assess the severity of COVID-19 outc
 1. What is the isolated effect of age on the risk of COVID-19 and Breast Cancer severe outcomes? - Dean 
 2. Is smoking a factor to have a severe COVID for individuals with Breast Cancer? - Mina
 3. Amongst all the races with different BC statuses, is smoking a factor for them to have COVID? - Mina
-4. Does obesity and age have an affect on Covid with Breast Cancer? - Fozia
+4. Does obesity and age have an affect on Covid with Breast Cancer? - Fozia/Favour
 5. How does race/ethnicity affect Covid with Breast Cancer? - Shan
 6. Is the severity of covid-19 affected if the individuals live in urban, suburban, or rural areas? - Hamza
 7. How does the timing of their breast cancer treatment affect their Covid outcomes? - Alex
@@ -25,7 +25,7 @@ Our primary objective is to comprehensively assess the severity of COVID-19 outc
 * Hamza Saleem - @HSaleem352
 * Mina Bagheri - @minalbm
 * Dean Ninalga - @Ninalgad 
-* Fozia/Favour - @FoziaY
+* Fozia/Favour - @FoziaY / @FavourOgboi
 * Shan Lian - @Lians03
 * Alejandra - @AlejandraFeatherston
 
